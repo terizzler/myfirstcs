@@ -1,0 +1,14 @@
+C:\xampp\htdocs\louied\bin\Debug\net10.0\louied.exe
+C:\xampp\htdocs\louied\bin\Debug\net10.0\louied.deps.json
+C:\xampp\htdocs\louied\bin\Debug\net10.0\louied.runtimeconfig.json
+C:\xampp\htdocs\louied\bin\Debug\net10.0\louied.dll
+C:\xampp\htdocs\louied\bin\Debug\net10.0\louied.pdb
+C:\xampp\htdocs\louied\obj\Debug\net10.0\louied.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\louied\obj\Debug\net10.0\louied.AssemblyInfoInputs.cache
+C:\xampp\htdocs\louied\obj\Debug\net10.0\louied.AssemblyInfo.cs
+C:\xampp\htdocs\louied\obj\Debug\net10.0\louied.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\louied\obj\Debug\net10.0\louied.dll
+C:\xampp\htdocs\louied\obj\Debug\net10.0\refint\louied.dll
+C:\xampp\htdocs\louied\obj\Debug\net10.0\louied.pdb
+C:\xampp\htdocs\louied\obj\Debug\net10.0\louied.genruntimeconfig.cache
+C:\xampp\htdocs\louied\obj\Debug\net10.0\ref\louied.dll
