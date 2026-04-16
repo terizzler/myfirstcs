@@ -43,6 +43,14 @@ namespace Louied
                     double english = 1.00, science = 1.00, math = 1.00, average = (english+science+math)/3;
                     bool passed = average<=2.00;
                     Console.WriteLine("student " + sname + " with a gpa of: " + average + " did pass?: " + passed);
+                    Console.WriteLine(" ");
+                    Console.WriteLine(" ");
+
+                    Console.Write("Emter Username: ");
+                    String username = Console.ReadLine();
+                    Console.Write("Emter Password: ");
+                    String password = Console.ReadLine();
+                    Console.WriteLine("username is: " + username + " password is: " + password);
         }
   }
 }
