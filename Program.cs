@@ -46,8 +46,7 @@ namespace Louied
                     Console.WriteLine(" ");
                     Console.WriteLine(" ");
 
-                    Console.Write("Emter Username: ");
-                    String username = Console.ReadLine();
+                
                     Console.Write("Emter Password: ");
                     String password = Console.ReadLine();
                     Console.WriteLine("username is: " + username + " password is: " + password);
